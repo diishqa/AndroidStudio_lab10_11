@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab10_11-and_KK</string>
+
+    <string name="student1">Иван Шмаль</string>
+    <string name="student2">Динара Мурадымовна</string>
+    <string name="student3">Арина Лойко</string>
+    <string name="student4">Александра Спиридонова</string>
+    <string name="student5">Диана Кузьмина</string>
+    <string name="student6">Алина Мефедова</string>
+    <string name="student7">Алиса Фирсова</string>
+    <string name="student8">Валерия Алексеева</string>
+    <string name="student9">Вероника Лободина</string>
+    <string name="student10">Наталья Пономарева</string>
+
+    <string name="student1_desc">Козлиная бородка имеется хорошая, уже нету(</string>
+    <string name="student2_desc">Радиант в валоранте, пары - не для нее</string>
+    <string name="student3_desc">Крутая, ангел, верит в нло, я ей верю тоже</string>
+    <string name="student4_desc">Сашка +вайбик внатуре четкая, любит мотоциклы</string>
+    <string name="student5_desc">Это я, я прост крутая</string>
+    <string name="student6_desc">Работает в маке, скоро еще где то будет работать, работяга </string>
+    <string name="student7_desc">Прост красивая кудрявая девчонка</string>
+    <string name="student8_desc">Лера тоже ваще хороша дама</string>
+    <string name="student9_desc">Староста.</string>
+    <string name="student10_desc">Пары не для нее, она так решила.</string>
+
+    <string name="years_old">%d лет</string>
+</resources>
