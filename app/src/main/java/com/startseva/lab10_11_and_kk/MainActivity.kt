@@ -117,3 +117,10 @@ fun StudentPreview(){
         StudentApp()
     }
 }
+@Preview
+@Composable
+fun StudentDarkThemePreview() {
+    Lab10_11and_KKTheme(darkTheme = true) {
+        StudentApp()
+    }
+}
