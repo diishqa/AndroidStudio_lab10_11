@@ -12,6 +12,10 @@
     <string name="student9">Вероника Лободина</string>
     <string name="student10">Наталья Пономарева</string>
 
+    <string name="expand_button_content_description">Развернуть или
+свернуть</string>
+    <string name="about">О студенте</string>
+
     <string name="student1_desc">Козлиная бородка имеется хорошая, уже нету(</string>
     <string name="student2_desc">Радиант в валоранте, !!ВЫЙГРАЛА РОМУ 1 НА 1 (СЧЕТ: 10:0)!!</string>
     <string name="student3_desc">Крутая, ангел, верит в нло, я ей верю тоже</string>
